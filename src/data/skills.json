@@ -1,5 +1,29 @@
 [
   {
+    "title": "Java",
+    "imageSrc": "../../java.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "../../linux.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "../../sql.png"
+  },
+  {
+    "title": "ITRS",
+    "imageSrc": "../../itrs.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "../../jira.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "../../javascript.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "../../html.png"
   },
@@ -17,22 +41,6 @@
   },
   {
     "title": "MongoDB",
-    "imageSrc": "../../mongodb.png"
-  },
-  {
-    "title": "Java",
-    "imageSrc": "../../mongodb.png"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "../../mongodb.png"
-  },
-  {
-    "title": "Linux",
-    "imageSrc": "../../mongodb.png"
-  },
-  {
-    "title": "SQL",
     "imageSrc": "../../mongodb.png"
   }
 ]
