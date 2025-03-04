@@ -1,7 +1,7 @@
 [
   {
     "title": "Clean Ease",
-    "imageSrc": "../../assets/projects/project.png",
+    "imageSrc": "../../project.png",
     "description": "This is a project to appointment for Cleaning the Home",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://clean-ease-frontend.netlify.app",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Expense Tracker",
-    "imageSrc": "../../assets/projects/project.png",
+    "imageSrc": "../../project.png",
     "description": "This is a project made to track our Expenses",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Book Library",
-    "imageSrc": "../../assets/projects/project.png",
+    "imageSrc": "../../project.png",
     "description": "This is a project made to build an online Book ",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",

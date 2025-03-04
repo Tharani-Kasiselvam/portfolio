@@ -5,7 +5,7 @@
     "startDate": "Aug, 2012",
     "endDate": "Present",
     "experiences": ["Worked on Incident Ticket and Change Reviews", "Reduced Low Priority Incidents by 50%"],
-    "imageSrc": "../../assets/history/scb.png"
+    "imageSrc": "../../scb.png"
   },
   {
     "role": "Programmer Analyst",
@@ -13,6 +13,6 @@
     "startDate": "Jul, 2010",
     "endDate": "Mar, 2012",
     "experiences": ["Worked on GWT to build Admin Tool", "Designed the Monitoring Parameters with Geneos ITRS tool"],
-    "imageSrc": "../../assets/history/esq.png"
+    "imageSrc": "../../esq.png"
   }
 ]

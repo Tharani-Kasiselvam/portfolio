@@ -1,38 +1,38 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "../../assets/skills/html.png"
+    "imageSrc": "../../html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "../../assets/skills/css.png"
+    "imageSrc": "../../css.png"
   },
   {
     "title": "React",
-    "imageSrc": "../../assets/skills/react.png"
+    "imageSrc": "../../react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "../../assets/skills/node.png"
+    "imageSrc": "../../node.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "../../assets/skills/mongodb.png"
+    "imageSrc": "../../mongodb.png"
   },
   {
     "title": "Java",
-    "imageSrc": "../../assets/skills/mongodb.png"
+    "imageSrc": "../../mongodb.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "../../assets/skills/mongodb.png"
+    "imageSrc": "../../mongodb.png"
   },
   {
     "title": "Linux",
-    "imageSrc": "../../assets/skills/mongodb.png"
+    "imageSrc": "../../mongodb.png"
   },
   {
     "title": "SQL",
-    "imageSrc": "../../assets/skills/mongodb.png"
+    "imageSrc": "../../mongodb.png"
   }
 ]
