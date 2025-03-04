@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Clean Ease",
+    "imageSrc": "../../assets/projects/project.png",
+    "description": "This is a project to appointment for Cleaning the Home",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://clean-ease-frontend.netlify.app",
+    "source": "https://github.com/Tharani-Kasiselvam/CleanEase-frontend"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "../../assets/projects/project.png",
+    "description": "This is a project made to track our Expenses",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Tharani-Kasiselvam/expense-tracker-frontend"
+  },
+  {
+    "title": "Book Library",
+    "imageSrc": "../../assets/projects/project.png",
+    "description": "This is a project made to build an online Book ",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
