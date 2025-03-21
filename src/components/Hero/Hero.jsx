@@ -8,14 +8,16 @@ export const Hero = () => {
       <div className={styles.content}>
         <h2 className={styles.title}>Hi, I'm Tharani</h2>
         <p className={styles.description}>
+          I am working as a Production Support Manager for last 10 years with Java, Linux, SQL skills and handled Incident Tickets and Change Management. 
+          <br />
+          I'm a Good Debugger and Troubleshooter. <br />
+          I have Problem solving skills to manage BAU and Escalations.
+          </p>
+          
+          <br />
+        <p className={styles.description}>
           I'm a Full-Stack Developer with 1 year of experience using React and NodeJS. </p>
-          <p>
-          I was a Production Support Manager for 8 years with Java, Linux and SQL skills. 
-          </p>
-          <p>
-          I'm a Good Debugger and Troubleshooter.
-          I have Problem solving skill to manage BAU and Escalations.
-          </p>
+          
           <br/>
           <p>
           Reach out if you'd like to learn more!
