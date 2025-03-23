@@ -8,10 +8,13 @@ export const Hero = () => {
       <div className={styles.content}>
         <h2 className={styles.title}>Hi, I'm Tharani</h2>
         <p className={styles.description}>
-          I am working as a Production Support Manager for last 10 years with Java, Linux, SQL skills and handled Incident Tickets and Change Management. 
-          <br />
-          I'm a Good Debugger and Troubleshooter. <br />
-          I have Problem solving skills to manage BAU and Escalations.
+        Results-driven Technical Manager, specializing in Incident Management
+        and Problem resolution. Demonstrated success in leading process
+        enhancements that significantly improved customer satisfaction and
+        operational efficiency. 
+        <br /><br />
+        Skilled in mentoring teams and delivering technical
+        guidance, effectively driving solutions in fast-paced environments.
           </p>
           
           <br />

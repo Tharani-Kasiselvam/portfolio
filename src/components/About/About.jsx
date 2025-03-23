@@ -13,13 +13,23 @@ export const About = () => {
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
+        <li className={styles.aboutItem}>
+            <img src='../../uiIcon.png' alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Production Support</h3>
+              <p>
+              Specializing in Incident Management and Problem resolution.
+              Primarily focused on Low Priority Incident reduction. <br/>Configured the application's KPI in the Geneos ITRS Monitoring Tool to
+              maintain application stability. <br/>Authored technical documentation, including Standard Operating Procedures, user manuals, and maintenance guides.
+              </p>
+            </div>
+          </li>
           <li className={styles.aboutItem}>
             <img src='../../cursorIcon.png' alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a Frontend Developer with 1 year experience in building responsive
-                and optimized sites
+                Interested in building responsive and optimized websites.
               </p>
             </div>
           </li>
@@ -28,18 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src='../../uiIcon.png' alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Production Support</h3>
-              <p>
-                I have experience in supporting Standalone and Web based applications. I also designed and supported Camunda workflows. 
-                I primarily focused on Incident Management, Change Management, Problem Management, LPI reduction
+                Interested in developing fast and optimised back-end systems and Rest APIs.
               </p>
             </div>
           </li>

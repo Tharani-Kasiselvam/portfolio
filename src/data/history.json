@@ -4,15 +4,23 @@
     "organisation": "Standard Chartered GBS PVT. LTD",
     "startDate": "Aug, 2012",
     "endDate": "Present",
-    "experiences": ["Worked on Incident Ticket and Change Reviews", "Reduced Low Priority Incidents by 50%"],
-    "imageSrc": "../../scb.png"
+    "experiences": ["Performed weekly follow-up calls with country stakeholders and ran through the issue tracker.", 
+                    "Implemented taxonomy templates for tracking customer issues in order to identify trends.",
+                    "Conducted daily meetings with support staff to review tickets and prioritize critical issues to avoid escalations.",
+                    "Collected, analyzed, and prepared reports of statistical data to eliminate manual toil activity.",
+                    "Participated in root cause analysis sessions for recurrent customer complaints.",
+                    "Provided mentoring, training, and leadership for all Production L1, L2 and L3 Support members."],
+     "imageSrc": "../../scb.png"
   },
   {
     "role": "Programmer Analyst",
     "organisation": "ESQUIRE SYSTEM PVT LTD",
     "startDate": "Jul, 2010",
     "endDate": "Mar, 2012",
-    "experiences": ["Worked on GWT to build Admin Tool", "Designed the Monitoring Parameters with Geneos ITRS tool"],
+    "experiences": ["Created instruction manuals for most-used software and computer programs to achieve easily accessible programming.", 
+    "Utilized the Java programming language to write clean, efficient code.", 
+    "Created technical documentation for software projects.", 
+    "Performed data analysis on large datasets using SQL queries and stored procedures."],
     "imageSrc": "../../esq.png"
   }
 ]

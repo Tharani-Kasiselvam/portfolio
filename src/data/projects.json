@@ -10,7 +10,7 @@
   {
     "title": "Clean Ease",
     "imageSrc": "../../project.png",
-    "description": "This is a project to appointment for Cleaning the Home",
+    "description": "This is a project to book appointment for Cleaning the Home",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://clean-ease-frontend.netlify.app",
     "source": "https://github.com/Tharani-Kasiselvam/CleanEase-frontend"
