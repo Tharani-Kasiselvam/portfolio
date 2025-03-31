@@ -4,8 +4,8 @@
     "imageSrc": "../../project.png",
     "description": "This is a project made to build an online Book ",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://book-library-booklib.netlify.app",
+    "source": "https://github.com/Tharani-Kasiselvam/book-library-frontend"
   },
   {
     "title": "Clean Ease",
