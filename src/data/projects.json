@@ -20,7 +20,7 @@
     "imageSrc": "../../project.png",
     "description": "This is a project made to track our Expenses",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://expense-tracker-extr.netlify.app",
     "source": "https://github.com/Tharani-Kasiselvam/expense-tracker-frontend"
   }
 ]
