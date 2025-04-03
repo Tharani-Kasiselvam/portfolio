@@ -2,7 +2,7 @@
   {
     "title": "Book Library",
     "imageSrc": "../../project.png",
-    "description": "This is a project made to build an online Book ",
+    "description": "This is a project made to build an online Book Librabry to store Reader's Favourite Books",
     "skills": ["React", "Express", "Node"],
     "demo": "https://book-library-booklib.netlify.app",
     "source": "https://github.com/Tharani-Kasiselvam/book-library-frontend"
